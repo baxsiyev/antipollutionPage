@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/antipollutionPage/static/css/main.75d4b718.css",
+    "main.js": "/antipollutionPage/static/js/main.95b9bafa.js",
+    "static/js/787.2304d0d5.chunk.js": "/antipollutionPage/static/js/787.2304d0d5.chunk.js",
+    "static/media/Idustrial-chimenys-emitting-smoke.jpeg": "/antipollutionPage/static/media/Idustrial-chimenys-emitting-smoke.5e3d105eefe4e782f672.jpeg",
+    "static/media/earth-158806_1280.png": "/antipollutionPage/static/media/earth-158806_1280.4e5e307d90edb9ec7f52.png",
+    "static/media/MvF_ElectronicComm.png": "/antipollutionPage/static/media/MvF_ElectronicComm.4bf70b21f65c4bee2080.png",
+    "static/media/how-does-recycling-help-the-environment.png": "/antipollutionPage/static/media/how-does-recycling-help-the-environment.9fee2e6b601ac19db781.png",
+    "static/media/twitter.png": "/antipollutionPage/static/media/twitter.b741d20d98d2df75552e.png",
+    "static/media/saveNature.png": "/antipollutionPage/static/media/saveNature.5c0c602ca957045324be.png",
+    "static/media/business-people-holding-placard-recycling-sym-symbol-41316555.jpg": "/antipollutionPage/static/media/business-people-holding-placard-recycling-sym-symbol-41316555.6dc7f5721433e3cc7204.jpg",
+    "static/media/karabakhlogo.png": "/antipollutionPage/static/media/karabakhlogo.30a80ba0e2f75d8e05ea.png",
+    "static/media/gmail_icon-icons.com_62758.png": "/antipollutionPage/static/media/gmail_icon-icons.com_62758.8d55216f1780ecfa4edc.png",
+    "index.html": "/antipollutionPage/index.html",
+    "main.75d4b718.css.map": "/antipollutionPage/static/css/main.75d4b718.css.map",
+    "main.95b9bafa.js.map": "/antipollutionPage/static/js/main.95b9bafa.js.map",
+    "787.2304d0d5.chunk.js.map": "/antipollutionPage/static/js/787.2304d0d5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.75d4b718.css",
+    "static/js/main.95b9bafa.js"
+  ]
+}
